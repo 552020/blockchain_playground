@@ -31,11 +31,40 @@ Ethereum was shipped with Solidity, a Turing-complete programming language, allo
 ## Goal
 
 - [ ] Write an hello world smart contract that anyone can run for a small amount of money. Make someone run it.
+  - [ ] Complete the 'Hello World Smart Contract For Beginners'
 
 Blockchain is not only about the code, but also about the social interaction aspect.
 
 ## Resources
 
+### Overview
+
+- [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast #80](https://youtu.be/3x1b_S6Qp2Q?si=LeKh8RETBuzedvhp)
+
+- [Firesheip - Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers](https://www.youtube.com/watch?v=wHTcrmhskto&ab_channel=Fireship)
+
+> Is web 3.0 all hype? Yes.
+> Should I get into it? Yes.
+
+- [I build a decentralized chat dapp // GUN web3 Tutorial](https://www.youtube.com/watch?v=J5x3OMXjgMc&ab_channel=Fireship)
+- [Vitalik Buterin explainig the Ethreum Blockchain Protocol](https://youtu.be/gjwr-7PgpN8?si=UYpIxa9TQ268-EFN)
+
+## Ethereum
+
+- https://ethereum.org/en/
+- https://en.wikipedia.org/wiki/Ethereum
+
+## Smart Contract
+
+- [Hello World Smart Contract For Beginners](https://ethereum.org/pcm/developers/tutorials/hello-world-smart-contract/) - From the official Ethereum website
+
 ### Solidity
 
+- https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org (M. did this I guess)
 - https://soliditylang.org/
+- https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
+
+### Varia
+
+- https://ethberlin.org/
+- [Fireship - Web3 Playlist](https://www.youtube.com/playlist?list=PL0vfts4VzfNjurgyRawm_e0RevgP7g1Ao) - 5 Videos
